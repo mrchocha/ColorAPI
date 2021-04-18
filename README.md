@@ -29,10 +29,10 @@ GET:  /api/https://storage.googleapis.com/bizupimg/profile_photo/Screenshot%2020
 
 ## For Border color detection
 - To detect the edge, I have first converted the color image to gray scale image.
-- Then performed the Canny edge detection
+- Then performed the Canny edge detection.
 - After that i have stored each index of matrix (image) with value 255 (white color) that represents the edge.
-- Then found pixel that are at stored indices
-- At the end find the frequency of all unique selected pixels and return the most frequent one.
+- Then found pixel that are at stored indices.
+- At the end find the frequency of all unique. selected pixels and return the most frequent one.
 
 
 # Thank you
