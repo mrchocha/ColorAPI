@@ -19,7 +19,7 @@ i.e
 GET:  /api/https://storage.googleapis.com/bizupimg/profile_photo/Screenshot%202020-08-16%20at%205.02.30%20PM%20-%20Nikunj%20Daruka.png
 ```
 
-# How ot Works?
+# How it Works?
 - First of all you need to know that we an represent the image as matrix of some pixels 
 - Each pixel represents the specific RGB value 
 
